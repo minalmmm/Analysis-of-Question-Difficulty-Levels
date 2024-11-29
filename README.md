@@ -1,4 +1,3 @@
-"""
 # Clustering Analysis of Coaching Institute Question Bank Dataset
 
 ## Project Overview
